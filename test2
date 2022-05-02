@@ -1,2 +1,6 @@
  v1.0 commit via cmd 
+<<<<<<< HEAD
 v2.0 commit via terminal 
+=======
+v3.0 commit via branch A thorough VS CODE 
+>>>>>>> 505d8a5 (v3.0 commit via branch A thorough VS CODE)
